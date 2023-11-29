@@ -1,0 +1,26 @@
+#container {
+  width: 60%;
+  margin: auto;
+}
+
+#container img {
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#ratingDiv {
+  background-color: rgb(96, 138, 236);
+  color: white;
+  width: 40px;
+  padding: 0.2%;
+  text-align: center;
+  margin-top: 5px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#priceDiv {
+  display: flex;
+}
